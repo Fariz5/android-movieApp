@@ -1,0 +1,599 @@
+{
+    "results": [
+        {
+            "id": 527774,
+            "title": "Raya and the Last Dragon",
+            "adult": false,
+            "banner": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+            "genre": [
+                "Animation",
+                "Adventure",
+                "Fantasy",
+                "Family",
+                "Action"
+            ],
+			"cast": [
+				{
+					"id": 2,
+					"logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+					"name": "Walt Disney Pictures",
+					"origin_country": "US"
+				},
+				{
+					"id": 6125,
+					"logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+					"name": "Walt Disney Animation Studios",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=9BPMTr-NS9s",
+            "language": "English",
+            "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+            "poster": "/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+            "release_date": "2021-03-03",
+			"vote_average":8.5
+        },
+        {
+            "id": 587807,
+            "title": "Tom & Jerry",
+            "adult": false,
+            "banner": "/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Family",
+                "Animation",
+                "Adventure"
+            ],
+			"cast": [
+				{
+					"id": 25120,
+					"logo_path": "/lqUpBvDLQYG3QaKNpe2lxfpgh36.png",
+					"name": "Warner Animation Group",
+					"origin_country": "US"
+				},
+				{
+					"id": 174,
+					"logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+					"name": "Warner Bros. Pictures",
+					"origin_country": "US"
+				},
+				{
+					"id": 8922,
+					"logo_path": "/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png",
+					"name": "Turner Entertainment",
+					"origin_country": "US"
+				},
+				{
+					"id": 77061,
+					"logo_path": null,
+					"name": "The Story Company",
+					"origin_country": ""
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=kP9TfCWaQT4",
+            "language": "English",
+            "description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+            "poster": "/6KErczPBROQty7QoIsaa6wJYXZi.jpg",
+            "release_date": "2021-02-11",
+			"vote_average":8.3
+        },
+        {
+            "id": 484718,
+            "title": "Coming 2 America",
+            "adult": false,
+            "banner": "/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg",
+            "genre": [
+                "Comedy"
+            ],
+			"cast": [
+				{
+					"id": 4,
+					"logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+					"name": "Paramount",
+					"origin_country": "US"
+				},
+				{
+					"id": 114732,
+					"logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+					"name": "New Republic Pictures",
+					"origin_country": "US"
+				},
+				{
+					"id": 30,
+					"logo_path": null,
+					"name": "Eddie Murphy Productions",
+					"origin_country": "US"
+				},
+				{
+					"id": 11581,
+					"logo_path": "/6K0xgnlb35PU31T2IH3deVGvTlX.png",
+					"name": "Misher Films",
+					"origin_country": "US"
+				},
+				{
+					"id": 20580,
+					"logo_path": "/tkFE81jJIqiFYPP8Tho57MXRQEx.png",
+					"name": "Amazon Studios",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=sY8gUtyeAKE",
+            "language": "English",
+            "description": "Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father's dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.",
+            "poster": "/nWBPLkqNApY5pgrJFMiI9joSI30.jpg",
+            "release_date": "2021-03-05",
+			"vote_average":8.0
+        },
+        {
+            "id": 458576,
+            "title": "Monster Hunter",
+            "adult": false,
+            "banner": "/z8TvnEVRenMSTemxYZwLGqFofgF.jpg",
+            "genre": [
+                "Fantasy",
+                "Action",
+                "Adventure"
+            ],
+			"cast": [
+				{
+					"id": 7220,
+					"logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+					"name": "CAPCOM",
+					"origin_country": "JP"
+				},
+				{
+					"id": 47,
+					"logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+					"name": "Constantin Film",
+					"origin_country": "DE"
+				},
+				{
+					"id": 248,
+					"logo_path": null,
+					"name": "Impact Pictures",
+					"origin_country": "CA"
+				},
+				{
+					"id": 81620,
+					"logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+					"name": "Tencent Pictures",
+					"origin_country": "CN"
+				},
+				{
+					"id": 882,
+					"logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+					"name": "Toho Company, Ltd.",
+					"origin_country": "JP"
+				},
+				{
+					"id": 3287,
+					"logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+					"name": "Screen Gems",
+					"origin_country": "US"
+				},
+				{
+					"id": 34,
+					"logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+					"name": "Sony Pictures",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=09Ia7PGMGwk",
+            "language": "English",
+            "description": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+            "poster": "/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+            "release_date": "2020-12-03",
+			"vote_average":7.0
+        },
+        {
+            "id": 464052,
+            "title": "Wonder Woman 1984",
+            "adult": false,
+            "banner": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+            "genre": [
+                "Fantasy",
+                "Action",
+                "Adventure"
+            ],
+			"cast": [
+				{
+					"id": 9993,
+					"logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+					"name": "DC Entertainment",
+					"origin_country": "US"
+				},
+				{
+					"id": 174,
+					"logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+					"name": "Warner Bros. Pictures",
+					"origin_country": "US"
+				},
+				{
+					"id": 114152,
+					"logo_path": null,
+					"name": "The Stone Quarry",
+					"origin_country": "US"
+				},
+				{
+					"id": 128064,
+					"logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+					"name": "DC Films",
+					"origin_country": "US"
+				},
+				{
+					"id": 507,
+					"logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+					"name": "Atlas Entertainment",
+					"origin_country": "US"
+				},
+				{
+					"id": 429,
+					"logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+					"name": "DC Comics",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=sfM7_JLk-84",
+            "language": "English",
+            "description": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+            "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+            "release_date": "2020-12-16",
+			"vote_average":7.6
+        },
+        {
+            "id": 587996,
+            "title": "Below Zero",
+            "adult": false,
+            "banner": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
+            "genre": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+			"cast": [
+				{
+					"id": 10031,
+					"logo_path": "/cUOviFxM9l3dYuNeg89giHUaqkd.png",
+					"name": "Morena Films",
+					"origin_country": "ES"
+				},
+				{
+					"id": 83987,
+					"logo_path": null,
+					"name": "Amorós Producciones",
+					"origin_country": ""
+				},
+				{
+					"id": 35559,
+					"logo_path": null,
+					"name": "ICEC",
+					"origin_country": "ES"
+				},
+				{
+					"id": 981,
+					"logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+					"name": "TVE",
+					"origin_country": "ES"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=UCLz92vUYJY",
+            "language": "English",
+            "description": "When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.",
+            "poster": "/dWSnsAGTfc8U27bWsy2RfwZs0Bs.jpg",
+            "release_date": "2021-01-29",
+			"vote_average":8.0
+        },
+        {
+            "id": 581389,
+            "title": "Space Sweepers",
+            "adult": false,
+            "banner": "/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg",
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Science Fiction"
+            ],
+			"cast": [
+				{
+					"id": 11589,
+					"logo_path": null,
+					"name": "Bidangil Pictures",
+					"origin_country": "KR"
+				},
+				{
+					"id": 114519,
+					"logo_path": "/omfLDgUXKmXly7T7bWBpKstq3HP.png",
+					"name": "Merry Christmas",
+					"origin_country": "KR"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=H1WYnJF1Pwo",
+            "language": "English",
+            "description": "When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.",
+            "poster": "/lykPQ7lgrLJPwLlSyetVXsl2wDf.jpg",
+            "release_date": "2021-02-05",
+			"vote_average":9.0
+        },
+        {
+            "id": 793723,
+            "title": "Sentinelle",
+            "adult": false,
+            "banner": "/gzJnMEMkHowkUndn9gCr8ghQPzN.jpg",
+            "genre": [
+                "Thriller",
+                "Action",
+                "Drama"
+            ],
+			"cast": [
+				{
+					"id": 12648,
+					"logo_path": null,
+					"name": "Labyrinthe Films",
+					"origin_country": "FR"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=wAJcykyq7DU",
+            "language": "Franch",
+            "description": "Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister.",
+            "poster": "/fFRq98cW9lTo6di2o4lK1qUAWaN.jpg",
+            "release_date": "2021-03-05",
+			"vote_average":7.8
+        },
+        {
+            "id": 602269,
+            "title": "The Little Things",
+            "adult": false,
+            "banner": "/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
+            "genre": [
+                "Thriller",
+                "Crime"
+            ],
+			"cast": [
+				{
+					"id": 174,
+					"logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+					"name": "Warner Bros. Pictures",
+					"origin_country": "US"
+				},
+				{
+					"id": 2605,
+					"logo_path": null,
+					"name": "Gran Via Productions",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=1HZAnkxdYuA",
+            "language": "English",
+            "description": "Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.",
+            "poster": "/c7VlGCCgM9GZivKSzBgzuOVxQn7.jpg",
+            "release_date": "2021-01-28",
+			"vote_average":9.0
+        },
+        {
+            "id": 775996,
+            "title": "Outside the Wire",
+            "adult": false,
+            "banner": "/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
+            "genre": [
+                "Thriller",
+                "Action",
+                "Science Fiction"
+            ],
+			"cast": [
+				{
+					"id": 146553,
+					"logo_path": null,
+					"name": "Inspire Entertainment",
+					"origin_country": ""
+				},
+				{
+					"id": 7625,
+					"logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+					"name": "Automatik Entertainment",
+					"origin_country": "US"
+				},
+				{
+					"id": 114032,
+					"logo_path": null,
+					"name": "Pioneer Stilking Films",
+					"origin_country": "GB"
+				},
+				{
+					"id": 118603,
+					"logo_path": null,
+					"name": "Leeding Media",
+					"origin_country": ""
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=iwYhA5YvdNc",
+            "language": "English",
+            "description": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+            "poster": "/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+            "release_date": "2021-01-15",
+			"vote_average":10.0
+        },
+        {
+            "id": 649087,
+            "title": "Red Dot",
+            "adult": false,
+            "banner": "/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
+            "genre": [
+                "Drama",
+                "Thriller"
+            ],
+			"cast": [
+				{
+					"id": 5610,
+					"logo_path": null,
+					"name": "Film i Dalarna",
+					"origin_country": "SE"
+				},
+				{
+					"id": 12985,
+					"logo_path": "/uRymXGaLN9pWScoajjiXHirTcQk.png",
+					"name": "SF Studio",
+					"origin_country": "SE"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=EHARitHyWKc",
+            "language": "English",
+            "description": "On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.",
+            "poster": "/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg",
+            "release_date": "2021-02-11",
+			"vote_average":9.5
+        },
+        {
+            "id": 613504,
+            "title": "After We Collided",
+            "adult": false,
+            "banner": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+            "genre": [
+                "Romance",
+                "Drama"
+            ],
+			"cast": [
+				{
+					"id": 6626,
+					"logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+					"name": "Voltage Pictures",
+					"origin_country": "US"
+				},
+				{
+					"id": 2378,
+					"logo_path": "/5xDJwLbyyt8IXuRAsR7kVibLDYF.png",
+					"name": "Offspring Entertainment",
+					"origin_country": "US"
+				},
+				{
+					"id": 140519,
+					"logo_path": null,
+					"name": "Frayed Pages Entertainment",
+					"origin_country": ""
+				},
+				{
+					"id": 107108,
+					"logo_path": "/5mxc7uNtFOZm2ly0BxixxGPvPlb.png",
+					"name": "Wattpad",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=u5B76cpkbfU",
+            "language": "English",
+            "description": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+            "poster": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+            "release_date": "2020-09-02",
+			"vote_average":8.4
+        },
+        {
+            "id": 522444,
+            "title": "Black Water: Abyss",
+            "adult": false,
+            "banner": "/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg",
+            "genre": [
+                "Horror",
+                "Thriller",
+                "Adventure",
+                "Mystery"
+            ],
+			"cast": [
+				{
+					"id": 85170,
+					"logo_path": null,
+					"name": "Altitude Film Sales",
+					"origin_country": "GB"
+				},
+				{
+					"id": 46813,
+					"logo_path": null,
+					"name": "Cornerstone Pictures",
+					"origin_country": ""
+				},
+				{
+					"id": 22897,
+					"logo_path": null,
+					"name": "ProdigyMovies",
+					"origin_country": ""
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=cIbRs6jwU_c",
+            "language": "English",
+            "description": "An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.",
+            "poster": "/95S6PinQIvVe4uJAd82a2iGZ0rA.jpg",
+            "release_date": "2020-07-09",
+			"vote_average":7.9
+        },
+        {
+            "id": 630586,
+            "title": "Wrong Turn",
+            "adult": false,
+            "banner": "/u5WUCO6irZoq27qbYYrtLUrCGDV.jpg",
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+			"cast": [
+				{
+					"id": 47,
+					"logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+					"name": "Constantin Film",
+					"origin_country": "DE"
+				},
+				{
+					"id": 116562,
+					"logo_path": null,
+					"name": "The H Collective",
+					"origin_country": "US"
+				},
+				{
+					"id": 13161,
+					"logo_path": null,
+					"name": "Tea Shop & Film Company",
+					"origin_country": "GB"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=0VFFFpDwfco",
+            "language": "English",
+            "description": "Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.",
+            "poster": "/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg",
+            "release_date": "2021-01-26",
+			"vote_average":8.3
+        },
+        {
+            "id": 651571,
+            "title": "Breach",
+            "adult": false,
+            "banner": "/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg",
+            "genre": [
+                "Science Fiction",
+                "Action"
+            ],
+			"cast": [
+				{
+					"id": 68628,
+					"logo_path": null,
+					"name": "308 Enterprises",
+					"origin_country": "CA"
+				},
+				{
+					"id": 111475,
+					"logo_path": "/xLMf5BHjpRoZBxeHalZCqXavkhk.png",
+					"name": "Almost Never Films",
+					"origin_country": "US"
+				},
+				{
+					"id": 5322,
+					"logo_path": "/6Vk4WZnKJuC6z6HKBGFirbWwWwV.png",
+					"name": "Aloe Entertainment",
+					"origin_country": "US"
+				}
+			],
+			"trailer_url": "https://www.youtube.com/watch?v=vntSSo0yuc4",
+            "language": "English",
+            "description": "A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.",
+            "poster": "/13B6onhL6FzSN2KaNeQeMML05pS.jpg",
+            "release_date": "2020-12-17",
+			"vote_average":7.9
+        }
+    ]
+}
